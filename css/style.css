@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: blue;
+    margin: 0px;
+}
+
+.h {
+    position: absolute;
+    font-size: 300px;
+    color: lightgray;
+    right: 135px;
+    bottom: 71px
+}
+
+.e {
+    position: absolute;
+    font-size: 300px;
+    bottom: 50%;
+    right: 50%;
+    margin-bottom: -109px;
+    color: lightgray;
+}
+
+.ll {
+    position: absolute;
+    font-size: 300px;
+    left: 50%;
+    top: 50%;
+    margin-top: -109px;
+
+    color: lightgray;
+}
+
+.o {
+    position: absolute;
+    font-size: 300px;
+    color: lightgray;
+    left: 165px;
+    top: 71px;
+}
